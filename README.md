@@ -9,7 +9,7 @@ The website is designed with a stylish food-focused UI, responsive layouts, imag
 
 👉 Add your live website link here
 
-`https://yourusername.github.io/momoza/`
+`https://sonusk3399.github.io/Momoza/`
 
 ## 📌 About The Project
 
@@ -142,7 +142,8 @@ Or use **VS Code Live Server** to run the project.
 Add screenshots of your website here:
 
 ```markdown
-![Momoza Website](./screenshot.png)
+![Momoza Website](<img width="1906" height="1037" alt="image" src="https://github.com/user-attachments/assets/997a184d-16c1-4d71-b49c-b0324b46b7a2" />
+)
 ```
 
 ## 🔮 Future Improvements
