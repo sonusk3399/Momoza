@@ -9,7 +9,7 @@ The website is designed with a stylish food-focused UI, responsive layouts, imag
 
 👉 Add your live website link here
 
-`https://sonusk3399.github.io/Momoza/`
+https://sonusk3399.github.io/Momoza/
 
 ## 📌 About The Project
 
