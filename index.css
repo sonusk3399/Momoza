@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .background-img{
-    background-image: url("./background\ img.png");
+    background-image: url("image/background\ img.png");
     background-size: cover;
     height: 800px;
     width: 100%;
@@ -100,7 +100,7 @@ padding: 20px 4%;
     font-weight: 700;
 }
 .heading .image-box{
-    background-image: url("./WhatsApp\ Image\ 2026-10-01\ at\ 9.01.27\ PM.jpeg");
+    background-image: url("image/WhatsApp\ Image\ 2026-10-01\ at\ 9.01.27\ PM.jpeg");
     background-size: cover;
      color: white;
     height: 350px;
@@ -119,7 +119,7 @@ padding: 20px 4%;
 }
 
 .heading .image1-box{
-    background-image: url("./food-plate-chinese-breakfast-tradition-featuring-momo-sauce_611531-783.avif");
+    background-image: url("image/food-plate-chinese-breakfast-tradition-featuring-momo-sauce_611531-783.avif");
     background-size: cover;
     position: absolute;
      height: 250px;
@@ -283,7 +283,7 @@ padding: 20px 4%;
 .container{
     height: 800px;
     width: 100%;
-    background-image: url("./WhatsApp\ Image\ 2026-10-01\ at\ 11.37.06\ PM.jpeg");
+    background-image: url("image/WhatsApp\ Image\ 2026-10-01\ at\ 11.37.06\ PM.jpeg");
     background-size: cover;
     padding-top: 35px;
 }
@@ -311,7 +311,7 @@ padding: 20px 4%;
 }
 .container #container-box1{
     transition: 0.4s;
-    background-image: url("./wp2249291.jpg");
+    background-image: url("image/wp2249291.jpg");
     background-size: cover;
     height: 200px;
     width: 540px;
@@ -326,7 +326,7 @@ padding: 20px 4%;
 }
 .container #container-box2{
     transition: 0.4s;
-     background-image: url("./wp2249291.jpg");
+     background-image: url("image/wp2249291.jpg");
     background-size: cover;
     height: 200px;
     width: 540px;
@@ -341,7 +341,7 @@ padding: 20px 4%;
 }
 .container #container-box3{
     transition: 0.4s;
-     background-image: url("./wp2249291.jpg");
+     background-image: url("image/wp2249291.jpg");
     background-size: cover;
     height: 200px;
     width: 540px;
@@ -356,7 +356,7 @@ padding: 20px 4%;
 }
 .container #container-box4{
     transition: 0.4s;
-    background-image: url("./wp2249291.jpg");
+    background-image: url("image/wp2249291.jpg");
     background-size: cover;
     height: 200px;
     width: 540px;
@@ -534,7 +534,7 @@ padding: 20px 4%;
  .container1{
     height: 700px;
     width: 100%;
-    background-image: url("./bg.jpeg");
+    background-image: url("image/bg.jpeg");
     background-size: cover;
  }
 .container1 .container1-box{
@@ -546,7 +546,7 @@ padding: 20px 4%;
     height: 540px;
     margin-top: 110px;
     margin-left: 100px;
-    background-image: url("./Warmly\ Lit\ Upscale\ Restaurant\ and\ Bar.png");
+    background-image: url("image/Warmly\ Lit\ Upscale\ Restaurant\ and\ Bar.png");
     background-size: cover;
         clip-path: polygon(
              0 0,
@@ -561,7 +561,7 @@ padding: 20px 4%;
     height: 540px;
     margin-top: 50px;
     margin-left: 10px;
-    background-image: url("./feature_-_Main_hall_1.jpg");
+    background-image: url("image/feature_-_Main_hall_1.jpg");
     background-size: cover;
     clip-path: polygon(
      0 0,
@@ -577,7 +577,7 @@ padding: 20px 4%;
     height: 340px;
     margin-top: 300px;
     margin-left: 600px;
-    background-image: url("./white.jpg");
+    background-image: url("image/white.jpg");
     background-size: cover;
         clip-path: polygon(
              0 0,
@@ -764,7 +764,7 @@ padding: 20px 4%;
 .fourth{
     height: 300px;
     width: 100%;
-    background-image: url("./image234.jpeg");
+    background-image: url("image/image234.jpeg");
     background-size: cover;
     display: flex;
     gap: 50px;
